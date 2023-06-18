@@ -1,7 +1,5 @@
 # Countries
 
-# Description
-
 Countries is an Android application that displays the necessary information about the countries of the world and their location on the map.
 
 I decided to develop using the kotlin programming language because I discovered Jetpack composer, an alternative to xml for creating android layouts and I wanted to learn more about this library.
