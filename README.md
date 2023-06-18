@@ -14,7 +14,7 @@ The next step for this application may be to implement network monitoring so tha
 > * And android emulator or androi mobile device
 >
 > Setps
-> * Clone the project using the repository link
+> * Clone the project using the repository link on the master branch
 > * sync your gradle
 > * Launch your amulator or connect your device with developer mode enabled
 > * Run the project
